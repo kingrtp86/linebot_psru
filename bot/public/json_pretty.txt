@@ -1,0 +1,10 @@
+{"events":
+[
+    {
+        "type":"message",
+        "replyToken":"8adb6782e7ea4581bbdf195c5e079ab0",
+        "source":{"userId":"U87a5cc6d92e2ee2f4f157768221370dd","type":"user"},
+        "timestamp":1557290881586,
+        "message":{"type":"text","id":"9827479548259","text":"นิยืยื"}
+    }
+],"destination":"U5745616b8f2830a728318364c8f273cb"}
